@@ -1,4 +1,4 @@
-<div align="center"><img src="./chromacruiser.png"/></div>
+<div align="center"><img src="chromacruiser.png"/></div>
 
 ## About ChromaCruiser
 
