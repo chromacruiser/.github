@@ -1,6 +1,4 @@
-# Welcome to ChromaCruiser! 🚲✨
-
-![ChromaCruiser Logo](link-to-logo.png)
+<div align="center"><img src="chromacruiser.png"/></div>
 
 ## About ChromaCruiser
 
