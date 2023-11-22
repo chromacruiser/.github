@@ -14,6 +14,8 @@ Features include:
 - **Easy Installation**: Set up in minutes with no special tools required.
 - **Weather Resistant**: Ready for any adventure, rain or shine.
 
+<!-- 
+
 ## Get Involved
 
 ### For Users
@@ -27,7 +29,7 @@ Features include:
 - **Contribute**: We welcome contributions! Check our [Contributing Guidelines](link-to-contributing).
 - **API Documentation**: Integrate ChromaCruiser with your projects. [API Docs](link-to-api-docs).
 
-<!-- 
+
 ## Stay Connected
 
 - **Website**: [chromacruiser.com](link-to-website)
