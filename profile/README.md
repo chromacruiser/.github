@@ -1,4 +1,6 @@
-<div align="center"><img src="chromacruiser.png"/></div>
+<p align="center">
+  <img src="https://github.com/chromacruiser/.github/blob/main/profile/chromacruiser.png?raw=true" alt="CHROMACRUISER"/>
+</p>
 
 ## About ChromaCruiser
 
